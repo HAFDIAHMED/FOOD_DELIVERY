@@ -26,10 +26,4 @@ A small attempt to make an Food delivery app user interface in Flutter for Andro
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
 
-
-
-
-
-
-
  
